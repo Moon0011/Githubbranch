@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("github","修改代码");
         Log.e("github","修改代码2");
+        Log.e("github","修改代码3");
     }
 }
